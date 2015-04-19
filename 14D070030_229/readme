@@ -1,0 +1,65 @@
+Year: 2015
+Course: CS101
+Group number: 229
+Project Title: Sudoku AutoSolver
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+Member 1 Name: Kunal Telgote
+         Roll Number: 14D070030
+
+Member 2 Name: Jeet Namha
+         Roll Number: 140070021
+
+Member 3 Name: Nitesh Kaushal
+         Roll Number: 14D070050
+
+Member 4 Name: Anil Pawar
+         Roll Number: 14D070051
+******************************************************************************************************
+YouTube Video Link:  ***************
+******************************************************************************************************
+The basic requirement of the game to run is that, you need a codeblocks
+with simple cpp graphic library this you can download from the link 
+
+http://www.cse.iitb.ac.in/~ranade/simplecpp/SimpleCodeBlocks.exe
+
+After downloading just follow the installation procedure and install the software.
+After installation run the Sudokuautosolver.cpp file to start the game.
+
+******************************************************************************************************
+
+INSTRUCTION OF USE:
+ 
+General guidelines
+
+* As soon as the user runs the application, the user is provide with two
+options which are:
+1. START GAME
+2. EXIT
+* To continue,click the START GAME button.
+* Then a number of options appear and the user is asked to select the desired
+variant of sudoku that he wishes to solve.
+* These options are:
+1. NORMAL SUDOKU
+2. DIAGONAL SUDOKU
+3. WINDOW SUDOKU
+4. EXIT
+
+* The user can then click on the corresponding button to select the desired
+variant or click EXIT to quit the application.
+
+* On selecting any variant corresponding puzzle begins.
+* Now follow the instruction given on the screen to give inputs and solve the sudoku puzzle.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
